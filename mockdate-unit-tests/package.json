@@ -1,0 +1,36 @@
+{
+  "name": "mockdate-unit-tests",
+  "version": "1.0.0",
+  "description": "Mocking dates with Mockdate in TypeScript unit tests",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "dates",
+    "mocha",
+    "medium",
+    "mocking",
+    "examples",
+    "tutorial",
+    "typescript",
+    "timestamps"
+  ],
+  "author": {
+    "url": "https://github.com/ToeFungi",
+    "name": "Alex Pickering",
+    "email": "pickeringacw@gmail.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "4.2.9",
+    "@types/mocha": "7.0.1",
+    "@types/mockdate": "2.0.0",
+    "@types/chai-as-promised": "7.1.2",
+    "chai": "4.2.0",
+    "mocha": "7.0.1",
+    "ts-node": "8.6.2",
+    "mockdate": "2.0.5",
+    "typescript": "3.7.5",
+    "chai-as-promised": "7.1.1"
+  }
+}
