@@ -5,8 +5,8 @@ TypeScript. The functionality remains identical though and the libraries are ava
 ## Getting Started
 You can get started with this example by cloning this repo
 ```bash
-$ git clone <SOME_URL>
-$ cd mockdate-unit-tests
+$ git clone <https://github.com/ToeFungi/medium-examples.git>
+$ cd medium-examples/mockdate-unit-tests
 $ npm i
 ```
 
