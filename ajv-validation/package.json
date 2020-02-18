@@ -2,6 +2,10 @@
   "name": "ajv-validation",
   "version": "1.0.0",
   "description": "Example of an implementation of the AJV validator with some basic schemas",
+  "scripts": {
+    "test": "mocha",
+    "coverage": "nyc mocha"
+  },
   "keywords": [
     "AJV",
     "Data",
