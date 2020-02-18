@@ -6,6 +6,7 @@ My aim is to provide developers with a tangible and ready-to-go examples of any 
 so that should anyone wish to implement or experiment, they are free to do so and have the resources required on hand.
 
 ## Examples
+- [AJV Validation](https://github.com/ToeFungi/medium-examples/tree/master/ajv-validation)
 - [Mocking JS Dates with Mockdate](https://github.com/ToeFungi/medium-examples/tree/master/mockdate-unit-tests)
 
 ## Handles

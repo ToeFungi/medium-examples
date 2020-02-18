@@ -1,0 +1,15 @@
+{
+  "required": [
+    "name"
+  ],
+  "properties": {
+    "name": {
+      "$id": "#/properties/name",
+      "type": "string"
+    }
+  },
+  "$id": "http://example.org/root.json#name-schema",
+  "type": "object",
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

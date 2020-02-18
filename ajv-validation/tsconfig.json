@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true,
+    "resolveJsonModule": true,
+    "lib": [
+      "es2019"
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
