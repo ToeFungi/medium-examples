@@ -11,7 +11,8 @@ $ npm i
 ```
 
 ## Running Unit Tests
-To run the unit test, you can simply use the `npm run test` command as indicated in the `package.json`.
+To run the unit test, you can simply use the `npm run test` command as indicated in the `package.json`. If you're also
+interested in determining the coverage, you can run `npm run coverage` which is included as well.
 
 ## What Tools are we Using?
 - [mocha](https://www.npmjs.com/package/mocha) (Testing framework)
